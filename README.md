@@ -1,12 +1,9 @@
 <h1 align="center">Hello, I'm Dimiter!</h1>
-<h3 align="center">A passionate developer from Bulgaria!</h3>
+<h3 align="center">Still a wannabe developer from Bulgaria!</h3>
 
-- 🌱 I’m currently learning **C# and Java**
 
-- 📫 How to reach me **detailedyt@gmail.com**
-
-- A little info: **4th year student at Plovdiv University "Paisii Hilendarski" majoring in Information and Computer Engineering.**
-
+- ℹ️ A little info: I'm a 4th year student at Plovdiv University "Paisii Hilendarski" majoring in Information and Computer Engineering. Passionate about technology 👨‍💻, cars 🚗 and motorcycles 🏍️. 
+- ❓ How to reach me: detailedyt@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
