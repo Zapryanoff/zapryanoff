@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dimiter!</h1>
-<h3 align="center">Still a wannabe developer from Bulgaria!</h3>
+<h3 align="center">Still a wannabe developer from Bulgaria!🇧🇬</h3>
 
 
 - ℹ️ A little info: I'm a 4th year student at Plovdiv University "Paisii Hilendarski" majoring in Information and Computer Engineering. Passionate about technology 👨‍💻, cars 🚗 and motorcycles 🏍️. 
